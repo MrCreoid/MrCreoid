@@ -1,88 +1,113 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&text=PRATYUSH%20GARG&fontSize=42&fontAlignY=38&desc=BUILDING%20THINGS%20I%20FIND%20INTERESTING&descAlignY=60&animation=fadeIn" width="100%"/>
+<img src="./assets/cyberpunk-header.svg" width="100%" alt="PRATYUSH GARG"/>
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Rajdhani&weight=700&size=17&duration=2300&pause=650&color=00F0FF&center=true&vCenter=true&width=720&height=42&lines=%3E%3E+SYSTEM+ONLINE;%3E%3E+NETRUNNER+IDENTIFIED;%3E%3E+AI+%2F%2F+SECURITY+%2F%2F+INTERFACES;%3E%3E+BUILDING+SOMETHING+NEW..." alt="System status"/>
+
+<br>
 
 <a href="https://github.com/mrcreoid">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1800&color=58A6FF&center=true&vCenter=true&width=650&lines=Frontend+%7C+AI+%7C+Security;Building+%C3%97+breaking+%C3%97+learning;I+use+AI+to+build+faster;Currently+making+the+UI+way+too+good" />
+<img src="https://img.shields.io/badge/%2F%2F%20MRCRΞOID-090B10?style=for-the-badge&logo=github&logoColor=00F0FF&labelColor=090B10" />
 </a>
-
-<br/>
-
-[![GitHub](https://img.shields.io/badge/GitHub-mrcreoid-181717?style=flat-square\&logo=github)](https://github.com/mrcreoid)
 
 </div>
 
 ---
 
-### `whoami`
+<div align="center">
 
-I'm **Pratyush**, a developer who likes building at the intersection of **AI, security, and really good interfaces**.
+### `// NETRUNNER PROFILE`
 
-I learn by building, break things to understand them, and occasionally spend far too long fixing a 2px alignment issue.
+**PRATYUSH GARG**
+
+`AI` &nbsp;×&nbsp; `SECURITY` &nbsp;×&nbsp; `INTERFACES`
+
+</div>
+
+I build things that I find interesting.
+
+I like taking an idea from **zero → working**, then obsessing over the details until it feels right.
+
+Currently exploring **AI-powered systems, MCP security, frontend experiences, and whatever rabbit hole comes next.**
 
 ---
 
-### `⚡ currently`
+<div align="center">
+
+### `// CURRENT CONTRACT`
 
 ```text
-┌─ BUILD SYSTEM ─────────────────────────────────┐
-
-  ● AI-powered tools
-  ● security & MCP experiments
-  ● frontend / interaction
-  ● learning by shipping
-
-  STATUS :: ████████████████████ ONLINE
-
-└─────────────────────────────────────────────────┘
+╔══════════════════════════════════════════════════╗
+║  STATUS       ● ONLINE                           ║
+║  MODE         BUILD                              ║
+║  THREAT       UNKNOWN                            ║
+║                                                  ║
+║  AI SYSTEMS        ████████████████░░            ║
+║  SECURITY          ██████████████░░░░            ║
+║  FRONTEND          ██████████████████            ║
+║  EXPERIMENTS       ██████████████████            ║
+╚══════════════════════════════════════════════════╝
 ```
+
+</div>
 
 ---
 
-### `🛠 toolbox`
+### `// LOADOUT`
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,python,html,css,tailwind,git,github" />
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,python,tailwind,vite,git,github&theme=dark" />
 </p>
 
 I don't really have a fixed stack.
 
-I use **different AI tools** throughout the process to prototype, build, debug, learn, and ship. The tool changes. The goal doesn't.
+I use **different AI tools** to prototype, build, debug, learn, and ship.
 
----
+The tools change.
 
-### `📡 github activity`
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=mrcreoid&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" height="165"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mrcreoid&hide_border=true&theme=transparent" height="165"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/mrcreoid/mrcreoid/output/github-contribution-grid-snake-dark.svg" width="95%"/>
-
-</div>
+**The mission doesn't.**
 
 ---
 
 <div align="center">
 
-### `one more thing...`
+<img src="./assets/neon-divider.svg" width="72%" />
 
-I don't want to know every tool.
+### `// GITHUB // SIGNAL`
 
-I want to be the person who can look at a problem and say:
+<img src="./assets/github-stats.svg" width="49%" />
+<img src="./assets/github-languages.svg" width="49%" />
 
-**"I'll figure it out."**
+<br><br>
 
-<br/>
+<img src="./assets/contribution-grid.svg" width="96%" />
 
-[![Profile Views](https://komarev.com/ghpvc/?username=mrcreoid\&style=flat-square\&label=VISITORS)](https://github.com/mrcreoid)
+</div>
+
+---
+
+<div align="center">
+
+```text
+> CONNECTION ESTABLISHED
+> SIGNAL STABLE
+> USER IS PROBABLY BUILDING SOMETHING
+```
+
+<br>
+
+<a href="https://github.com/mrcreoid">
+<img src="https://img.shields.io/badge/GITHUB-00F0FF?style=for-the-badge&logo=github&logoColor=090B10&labelColor=FF003C" />
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=mrcreoid&style=flat-square&color=FF003C&label=NETRUNNERS" />
+
+<br><br>
+
+### `NO FLATLINES.`
 
 </div>

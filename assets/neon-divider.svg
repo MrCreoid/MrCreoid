@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="44" viewBox="0 0 1000 44">
+<g fill="none" stroke-linecap="square"><path d="M0 22H220l18-9h72l18 9h372l18-9h72l18 9h192" stroke="#FF003C" stroke-width="2" opacity=".9"/><path d="M0 27H180M820 27h180" stroke="#00F0FF" stroke-width="2" opacity=".8"/><path d="M300 22h400" stroke="#FCE300" stroke-width="1" opacity=".8"/></g>
+<g font-family="monospace" font-size="9" fill="#8B949E" letter-spacing="2"><text x="8" y="16">NC//SIG</text><text x="904" y="16">0x2077</text></g>
+</svg>

@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="300" viewBox="0 0 900 300">
+<rect width="900" height="300" rx="4" fill="#090B10" stroke="#FF003C" stroke-opacity=".7"/><path d="M0 36H900" stroke="#00F0FF" stroke-opacity=".6"/>
+<text x="28" y="25" fill="#00F0FF" font-family="monospace" font-size="14" letter-spacing="3">GITHUB // LANGUAGE MATRIX</text>
+<text x="450" y="150" text-anchor="middle" fill="#FCE300" font-family="monospace" font-size="16" letter-spacing="2">AWAITING TELEMETRY...</text>
+</svg>
